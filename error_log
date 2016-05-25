@@ -1,1 +1,0 @@
-[22-Jan-2015 18:13:03 UTC] PHP Fatal error:  Call to undefined function headers() in /home/iamsharpe/public_html/mail.php on line 4
