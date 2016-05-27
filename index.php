@@ -478,7 +478,7 @@
                     <a href="http://www.facebook.com/iamsharpe" class="scrollpoint sp-effect3"><i class="fa fa-facebook fa-lg"></i></a>
                 </div>
                 <div class="rights">
-                    <p>Copyright Larry Sharpe III &copy; 2015</p>
+                    <p>Copyright Larry Sharpe III &copy; <?=date('Y');?></p>
                 </div>
             </div>
         </footer>
